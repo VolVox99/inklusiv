@@ -1,0 +1,8 @@
+{
+    "user_info": {
+        "colorblind": "n/a OR red-green OR blue-black",
+        "adhd": "true OR false",
+        "dyslexia": "true OR false"
+    },
+    "user_requests": ["explainPage", "magnifyPage", "unMagnifyPage", "etc"]
+}

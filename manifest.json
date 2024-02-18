@@ -24,8 +24,13 @@
           {
             "js": ["scripts/dyslexia.js"],
             "matches": ["<all_urls>"]
+          },
+          {
+            "js": ["scripts/explainPage.js"],
+            "matches": ["<all_urls>"]
           }
-    ],
+        ],
+
     "action": {
       "default_popup": "popup.html",
       "default_icon": {
